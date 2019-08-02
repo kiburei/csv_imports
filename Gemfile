@@ -9,7 +9,6 @@ gem 'rails', '~> 5.2.3'
 gem 'tiny_tds'
 gem 'activerecord-sqlserver-adapter'
 gem 'activerecord-import'
-  
 # Use Puma as the app server
 gem 'puma', '~> 3.11'
 # Use SCSS for stylesheets
